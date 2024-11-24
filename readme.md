@@ -12,7 +12,7 @@ This project aims to detect breast tumors in MRI images using a Convolutional Ne
 6. [Model Training Parameters](#model-training-parameters)
 7. [Model Performance](#model-performance)
 8. [Future Improvements](#future-improvements)
-9. 
+9. [Installation](#installation)
 
 ## Project Structure
 
